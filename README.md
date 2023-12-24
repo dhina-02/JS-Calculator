@@ -14,7 +14,7 @@ This is a basic web calculator project implemented using HTML, CSS, and JavaScri
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone 
+    git clone https://github.com/dhina-02/JS-Calculator.git
     ```
 
 2. Open the `index.html` file in your web browser.
