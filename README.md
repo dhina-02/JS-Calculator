@@ -23,7 +23,8 @@ This is a basic web calculator project implemented using HTML, CSS, and JavaScri
 
 ## Preview
 
-[Insert a screenshot or gif of your calculator in action]
+![Screenshot (302)](https://github.com/dhina-02/JS-Calculator/assets/141801163/bf24b6ec-a566-4349-bfb0-56658d04df9b)
+
 
 ## Contributing
 
